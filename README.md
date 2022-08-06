@@ -86,3 +86,9 @@ the audio features from fMRI and anatomical features. Other is to predict out-of
 **Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
 **Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age.\
 **How to get involved**: Submit a pull request!
+
+### Bipolar Reference Pair Generator
+**Project url(s)**: [GitHub repo](https://github.com/Rahul-Brito/Bipolar-Reference-Pair-Generator), 
+**Contributors**: [Morgan Fogarty](https://github.com/mefogarty), [Azeezat Azeez](https://github.com/AzeezatA)\
+**Description of project**: The goal of this project is to automatically compute the anode and cathode pairs from iEEG data for bipolar referencing. We computed the 3D Euclidean distance between all electrodes and used the channel names to separate the pairs into their distinct grids. The pairs can be generated in both the vertical and horizontal orientations. The output is two lists of paired anodes and cathodes which can be used as an input to MNE.set_bipolar_referencing.\
+**How to get involved**: Submit a pull request!
